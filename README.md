@@ -84,8 +84,8 @@ Shows where targets are being missed, by region and by category.
 - **Region & Category Performance (matrix):** Total Sales, Total Targets, Variance and Achievement % for each region, expandable to category level. Status colours show green for 100% or more, amber for 95-100%, and red below 95%. The total shortfall for 2025 is about INR 1.91M, mostly from West (-INR 998K) and South (-INR 749K).
 
 ### Page 3: Product & Customer Insights
+![Product & Customer Insights] ("C:\POWER BI\powerbi-sales-performance-dashboard\3_product_customer.png")
 
-("C:\POWER BI\powerbi-sales-performance-dashboard\1_executive_overview.png")
 
 Explains what is being sold and who is buying it.
 
