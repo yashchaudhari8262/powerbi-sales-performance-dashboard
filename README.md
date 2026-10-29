@@ -85,7 +85,7 @@ Shows where targets are being missed, by region and by category.
 
 ### Page 3: Product & Customer Insights
 
-"C:\POWER BI\powerbi-sales-performance-dashboard\1_executive_overview.png"
+("C:\POWER BI\powerbi-sales-performance-dashboard\1_executive_overview.png")
 
 Explains what is being sold and who is buying it.
 
