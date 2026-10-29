@@ -63,7 +63,7 @@ SWITCH(TRUE(),
 
 ### Page 1: Executive Overview
 
-![Executive Overview](screenshots/1_executive_overview.png)
+![Executive Overview]("C:\POWER BI\powerbi-sales-performance-dashboard\1_executive_overview.png")
 
 A one-glance summary of how the business is performing against its targets.
 
