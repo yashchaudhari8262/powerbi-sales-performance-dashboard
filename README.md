@@ -85,7 +85,7 @@ Shows where targets are being missed, by region and by category.
 
 ### Page 3: Product & Customer Insights
 
-![Product & Customer Insights](screenshots/3_product_customer.png)
+3_product_customer.png
 
 Explains what is being sold and who is buying it.
 
